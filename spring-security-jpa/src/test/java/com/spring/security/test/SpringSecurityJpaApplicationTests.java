@@ -1,4 +1,4 @@
-package io.javabrains.springsecurityjpa;
+package com.spring.security.test;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
